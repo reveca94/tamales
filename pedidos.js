@@ -36,7 +36,7 @@ const stockProductos = [
       nombre: "alfajor sin gluten",
       cantidad: 1,
       desc: "harina de coco y maizena",
-      precio: 1200,
+      precio: 1,
       img: "https://bing.com/th?id=OSK.9e7d36b2c42c4d9a142f00448717b7b3",
     },
     {
@@ -45,7 +45,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "Eren Jeager vuelve en formato gamer...",
       precio: 1200,
-      img: "img/shingeki.jpg",
+      img: "https://th.bing.com/th/id/R.4abe67c778b1cf9d589612a44bbbc500?rik=D9equVF%2fJqMIqQ&pid=ImgRaw&r=0",
     },
     {
       id: 7,
@@ -53,7 +53,7 @@ const stockProductos = [
       cantidad: 1,
       desc: "No compres esto por tu bien",
       precio: 1400,
-      img: "img/league.jpg",
+      img: "https://th.bing.com/th/id/OIP.dfmdsHggw1tF3yKQLpUcmQHaE5?pid=ImgDet&rs=1",
     },
     {
       id: 8,
@@ -61,24 +61,8 @@ const stockProductos = [
       cantidad: 1,
       desc: "Dispara como nunca",
       precio: 1200,
-      img: "img/callduty.jpg",
-    },
-    {
-      id: 9,
-      nombre: "Fifa 2019",
-      cantidad: 1,
-      desc: "Juego de futbol",
-      precio: 1400,
-      img: "img/fifa.jpg",
-    },
-    {
-      id: 10,
-      nombre: "Fornite",
-      cantidad: 1,
-      desc: "Battle Royale",
-      precio: 1200,
-      img: "img/fornite.jpg",
-    },
+      img: "https://th.bing.com/th/id/R.63430b81ef456c29ee73409c900b8296?rik=APfBpyl5Fjnh5Q&pid=ImgRaw&r=0",
+    }
   ];
   let carrito = [];
   
